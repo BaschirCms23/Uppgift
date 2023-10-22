@@ -1,0 +1,17 @@
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.AssemblyInfoInputs.cache
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.AssemblyInfo.cs
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.csproj.CoreCompileInputs.cache
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\bin\Debug\net7.0\Adressbok.exe
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\bin\Debug\net7.0\Adressbok.deps.json
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\bin\Debug\net7.0\Adressbok.runtimeconfig.json
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\bin\Debug\net7.0\Adressbok.dll
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\bin\Debug\net7.0\Adressbok.pdb
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.dll
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\refint\Adressbok.dll
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.pdb
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.genruntimeconfig.cache
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\ref\Adressbok.dll
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.csproj.AssemblyReference.cache
+C:\Users\basch\Desktop\Skola\C-sharp\inlämning\InlämningsUppgift\InlämningsUppgift\obj\Debug\net7.0\Adressbok.csproj.CopyComplete

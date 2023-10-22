@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKvFnkhymcfuC5lolVg/0bKgik03v+7NGlgBYjwMNxfB3l+JXxBl2MiOUxCselPhP+yxeeT46aQ0tKhvv4Af1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basch\\Desktop\\Skola\\C-sharp\\inlämning\\InlämningsUppgift\\InlämningsUppgift\\Adressbok.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basch\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
